@@ -1,0 +1,12 @@
+COMMANDS USED TO CREATE THIS REPOSITORY:
+
+1) created repository on github
+2) $ mkdir exercises --> $ cd exercises
+3) created a test file with some text
+4) $ git init
+5) $ $ git add test
+6) $ git commit -m "first commit"
+7) $ git branch -M main
+8) $ git remote add origin git@github.com:stan0610/exercises.git
+9) $ git push -u origin main
+
